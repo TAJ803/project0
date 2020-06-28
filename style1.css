@@ -7,7 +7,7 @@ width: 50%;
 }
 
 h2 {
-color: blue;
+color: black;
 text-indent: inherit;
 background-color: white;
 height: 50%;
@@ -21,8 +21,8 @@ div {
 }
 
 p {
-  color: yellow;
-  background-color: black;
+  color: black;
+  background-color: white;
   height: 200px;
   width: 300px;
 }
