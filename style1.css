@@ -2,16 +2,16 @@ h1 {
 color: black;
 text-indent: inherit;
 background-color: white;
-height: 50%;
-width: 50%;
+height: auto;
+width: auto;
 }
 
 h2 {
 color: black;
 text-indent: inherit;
 background-color: white;
-height: 50%;
-width: 50%;
+height: auto;
+width: auto;
 }
 
 #div {
