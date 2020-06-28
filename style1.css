@@ -17,6 +17,6 @@ width: auto;
 p {
   color: black;
   background-color: white;
-  height: 200px;
-  width: 300px;
+  height: auto;
+  width: auto;
 }
