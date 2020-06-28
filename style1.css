@@ -6,6 +6,14 @@ height: 50%;
 width: 50%;
 }
 
+h2 {
+color: blue;
+text-indent: inherit;
+background-color: white;
+height: 50%;
+width: 50%;
+}
+
 div {
   color: blue;
   height: auto;
