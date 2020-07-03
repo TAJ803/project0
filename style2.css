@@ -1,0 +1,30 @@
+
+  .img {
+            height: 200px;
+            background: pink;
+            }
+
+
+
+h1 {
+            color: red;
+            text-indent: Centered;
+            background-color: white;
+            height: 50%;
+            width: 50%;
+   }
+
+h2 {
+            color: black;
+            text-indent: inherit;
+            background-color: white;
+            height: auto;
+            width: auto;
+    }
+
+p {
+              color: black;
+              background-color: white;
+              height: auto;
+              width: auto;
+    }
