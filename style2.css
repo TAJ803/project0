@@ -8,9 +8,9 @@
 
 h1 {
             color: red;
-            text-indent: 50px;
+            text-indent: inherit;
             text-align: center;
-            background-color: white;
+            background-color: inherit;
             height: 50%;
             width: 50%;
    }
@@ -18,14 +18,15 @@ h1 {
 h2 {
             color: black;
             text-indent: inherit;
-            background-color: white;
+            text-align: center;
+            background-color: inherit;
             height: auto;
             width: auto;
     }
 
 p {
               color: black;
-              background-color: white;
+              background-color: inherit;
               height: auto;
               width: auto;
     }
